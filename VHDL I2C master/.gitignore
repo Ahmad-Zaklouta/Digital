@@ -1,0 +1,18 @@
+# ignore Quartus  generated folders
+db/
+incremental_db/
+simulation/
+timing/
+*_sim/
+output_files/
+
+# ignore special files
+.#*
+\#*
+*~
+_*
+*.bak
+
+# ignore Quartus generated files
+*.txt
+*.rpt

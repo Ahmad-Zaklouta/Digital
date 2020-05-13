@@ -1,0 +1,26 @@
+
+Protokol - melding fra klient
+-----------------------------------
+- 4 bytes
+- [B3 B2 B1 B0]
+ 
+B3 - Ordrebyte
+
+--flagg------------Beskrivelse----------------------------
+- 0x80 gir server beskjed om at klient terminerer pga. feil
+- 0x40 gir server beskjed om at klient terminerer normalt
+- 0x20
+- 0x10
+- 0x08 
+- 0x04 gir server beskjed om å hente alle jobber
+- 0x02 gir server beskjed om å hente jobber gitt av B1,B0
+- 0x01 gir server beskjed om å hente en jobb
+----------------------------------------------------------
+
+B2 - Ubrukt
+----------------------------------------------------------
+B1 - Fremste byte i short int = [B1 B0]
+----------------------------------------------------------
+B0 - Bakerste byte i short int  = [B1 B0]
+----------------------------------------------------------
+

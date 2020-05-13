@@ -1,0 +1,9 @@
+
+TODO
+  - Fikse makefilen
+  - bruke 3 byte i protokoll for antall jobber
+  - sette max ventetid for klient, setsockopt()
+  - gå gjennom funksjonsbeskrivelser i header
+	- håndtere tilfelle med for stort antall
+	-	sette inn Q når server når slutten på filen
+	- legge til malloc og free hvis len > 10⁶

@@ -1,0 +1,11 @@
+M:/fys4220-petter-christoffer/Lab3/hdl/i2c_master.vhd {1 {vcom -work work -2002 -explicit -stats=none M:/fys4220-petter-christoffer/Lab3/hdl/i2c_master.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity i2c_master
+-- Compiling architecture i2c_master_arc of i2c_master
+
+} {} {}}

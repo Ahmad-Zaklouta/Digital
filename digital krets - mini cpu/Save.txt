@@ -1,0 +1,5 @@
+R	Read_write_Ctrl(650,240).Read_inn	Read_write_Ctrl(650,240).Write_in	OW_Ctrl(700,280).DDDD	OW_Ctrl(700,280).Q	D_inn(720,300).D
+1101 1100	xxxx xxxx	1101 1100	xxxx	1101 1100	???
+0000 0000	xxxx xxxx	0000 0000	xxxx	0000 0000	???
+0000 0000	xxxx xxxx	0000 0000	1100	0000 0000	12
+0000 1100	xxxx xxxx	0000 1100	1100	0000 1100	12
