@@ -1,9 +1,6 @@
-Lab 2
 
 Del 1:
 Laget klokke generator.  Laget en intern klokke. Laget timing og trigger signaler.
 
 Del 2:
 Laget I2C-master state maskin, for kontroll av I2C kommunikasjon. 
-
-Var mange signaler og holde styr på, hadde litt småfeil, men lot seg greit ordne. Prøvde først å kjøre statemaskinen i to prosesser, men så for mange ploblemstillinger rundt å havne i en uendelig loop, men mener det skulle latt seg løse på en måte.
