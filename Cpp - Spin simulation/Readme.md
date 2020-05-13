@@ -1,4 +1,4 @@
-Project 4
+Project 4 Ising model
 
 Files:
 - ising.h & metromain.h:  header files
